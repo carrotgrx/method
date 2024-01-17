@@ -1,0 +1,4 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/carrotgrx/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_BUILD_TYPE=Debug -G Ninja -S D:\PROJECT\QT\method -B D:\PROJECT\QT\method\cmake-build-debug-qt
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/PROJECT/QT/method/cmake-build-debug-qt

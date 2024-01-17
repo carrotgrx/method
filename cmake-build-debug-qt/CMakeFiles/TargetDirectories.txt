@@ -1,0 +1,4 @@
+D:/PROJECT/QT/method/cmake-build-debug-qt/CMakeFiles/method.dir
+D:/PROJECT/QT/method/cmake-build-debug-qt/CMakeFiles/edit_cache.dir
+D:/PROJECT/QT/method/cmake-build-debug-qt/CMakeFiles/rebuild_cache.dir
+D:/PROJECT/QT/method/cmake-build-debug-qt/CMakeFiles/method_autogen.dir
